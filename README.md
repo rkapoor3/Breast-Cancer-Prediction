@@ -16,14 +16,14 @@ Separating plane described above was obtained using Multisurface Method-Tree (MS
 
 3) Ten real-valued features are computed for each cell nucleus: 
 
-  a) radius (mean of distances from center to points on the perimeter) 
-  b) texture (standard deviation of gray-scale values) 
-  c) perimeter 
-  d) area 
-  e) smoothness (local variation in radius lengths) 
-  f) compactness (perimeter^2 / area - 1.0) 
-  g) concavity (severity of concave portions of the contour) 
-  h) concave points (number of concave portions of the contour) 
-  i) symmetry 
-  j) fractal dimension ("coastline approximation" - 1)
+  i) radius (mean of distances from center to points on the perimeter) 
+  ii) texture (standard deviation of gray-scale values) 
+  iii) perimeter 
+  iv) area 
+  v) smoothness (local variation in radius lengths) 
+  vi) compactness (perimeter^2 / area - 1.0) 
+  vii) concavity (severity of concave portions of the contour) 
+  viii) concave points (number of concave portions of the contour) 
+  ix) symmetry 
+  x) fractal dimension ("coastline approximation" - 1)
 
